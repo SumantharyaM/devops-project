@@ -14,6 +14,6 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "Hello from DevOps App!";
+        return "Hello from sumanth!";
     }
 }
