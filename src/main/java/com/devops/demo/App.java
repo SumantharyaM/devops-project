@@ -14,6 +14,7 @@ public class App {
 
     @GetMapping("/")
     public String home() {
+<<<<<<< HEAD
         return "Hello from sumanth!";
     }
 }
