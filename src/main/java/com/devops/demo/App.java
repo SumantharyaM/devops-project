@@ -15,6 +15,6 @@ public class App {
     @GetMapping("/")
     public String home() {
 <<<<<<< HEAD
-        return "Hello from sumanth!";
+        return "Hello from K!";
     }
 }
