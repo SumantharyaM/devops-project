@@ -15,5 +15,6 @@ spec:
       containers:
       - name: devops-app
         image: sumantharya/devops-app:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 8080
